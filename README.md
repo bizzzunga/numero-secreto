@@ -5,8 +5,8 @@ Desafio proposto pela Alura para testar lógica de programação com JavaScript.
 ## Índice
 - <a href= "#funcionalidades">Funcionalidades do Projeto</a>
 - <a href= "#tecnologias utilizadas">Tecnologias utilizadas</a>
-- <a href= "#demonstração">Demonstração</a>
 - <a href= "#rodar">Como rodar este projeto?</a>
+- <a href= "#pessoa">Pessoa autora</a>
 
 ## 📱Funcionalidades do projeto
 
