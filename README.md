@@ -1,5 +1,4 @@
 # Projeto Inicial
-![home](./img/home.png)
 Desafio proposto pela Alura para testar lógica de programação com JavaScript. O projeto se baseia em criar um jogo com tentativas para acertar um número secreto, com condições, acertos e erros.
 
 ## Índice
@@ -11,9 +10,13 @@ Desafio proposto pela Alura para testar lógica de programação com JavaScript.
 ## 📱Funcionalidades do projeto
 
 - Oferecer um alert para que o usuário adivinhe o número secreto;
-- Validar a depender do valor digitado se o usuário acertou ou errou;
-- Tela de acerto para o cenário de sucesso;
+![home](./img/home.png)
+- Validar o valor digitado se o usuário acertou ou errou;
+![tentativa1](./img/tentativa1.png)
+- Tela de acerto para o cenário de sucesso e quantidade de tentativas;
+![tentativa3](./img/tentativa3.png)
 - Possibilidade de nova tentativa em cenário de erro.
+![tentativa2](./img/tentativa2.png)
 
 ## Tecnologias utilizadas
 
